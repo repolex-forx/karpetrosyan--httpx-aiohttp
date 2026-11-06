@@ -1,0 +1,11 @@
+{
+  "org": "karpetrosyan",
+  "repo": "httpx-aiohttp",
+  "versions": [
+    {
+      "commit": "22a58c53767371e9626ca16faf25d593388a624e",
+      "tag": "",
+      "parsed_at": "2026-11-06T02:12:35.944938+00:00"
+    }
+  ]
+}
