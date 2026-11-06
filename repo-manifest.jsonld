@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/karpetrosyan/httpx-aiohttp/commit/22a58c53767371e9626ca16faf25d593388a624e",
       "git:hexsha": "22a58c53767371e9626ca16faf25d593388a624e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/karpetrosyan/httpx-aiohttp/commit/93ddd8d00107b926327cadb5d0453682c03ab8bf",
