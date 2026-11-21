@@ -115,6 +115,29 @@
       ],
       "ast": [
         "aggregate/ast/d2c3a460e9625788e909526248f179ab2e817573/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/d2c3a460e9625788e909526248f179ab2e817573.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "aiohttp",
+          "ecosystem": "PYPI",
+          "version": "3",
+          "githubOrg": "aio-libs",
+          "githubRepo": "aiohttp",
+          "githubUrl": "https://github.com/aio-libs/aiohttp",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "httpx",
+          "ecosystem": "PYPI",
+          "version": "0.28.1",
+          "githubOrg": "encode",
+          "githubRepo": "httpx",
+          "githubCommit": "26d48e0634e6ee9cdc0533996db289ce4b430177",
+          "githubTag": "0.28.1",
+          "githubUrl": "https://github.com/encode/httpx",
+          "source": "build_file:pyproject.toml"
+        }
       ]
     }
   ],
