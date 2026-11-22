@@ -138,7 +138,9 @@
           "githubUrl": "https://github.com/encode/httpx",
           "source": "build_file:pyproject.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/d2c3a460e9625788e909526248f179ab2e817573/chunk-001.nq.gz",
+      "dep": "dep/d2c3a460e9625788e909526248f179ab2e817573.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
